@@ -1,4 +1,4 @@
 #! /bin/bash
 
 sudo yum update
-sudo yum install nginx -y
+sudo yum install httpd -y
